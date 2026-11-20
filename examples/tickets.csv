@@ -1,0 +1,11 @@
+id,description,location,opened
+T001,Sparks coming from outlet,Building A room 112,2026-11-18
+T002,Toilet overflowing,Building B restroom 2,2026-11-17
+T003,Thermostat not working and office is cold,Building A room 204,2026-11-05
+T004,Air conditioning not working,Building C server room,2026-11-18
+T005,Scuff marks on hallway wall,Building B corridor,2026-11-01
+T006,Ceiling tile missing,Building A lobby,2026-11-17
+T007,Replace nameplate on door,Building D room 3,2026-11-18
+T008,Elevator stuck between floors,Building B elevator 2,2026-11-18
+T009,Light bulb out,Building C room 7,2026-11-10
+T010,Spill near the kitchen entrance,Building A kitchen,2026-11-18
