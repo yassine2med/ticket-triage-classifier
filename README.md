@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="ticket-triage-classifier" width="100%"></p>
+
 # ticket-triage-classifier
 
 Reads service tickets from a CSV and gives each one a priority, a response time target and a trade, with the reason in plain words. It uses fixed rules, not machine learning, so every decision can be explained and changed.
