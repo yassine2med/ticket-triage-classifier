@@ -2,6 +2,8 @@
 
 # ticket-triage-classifier
 
+[![CI](https://github.com/yassine2med/ticket-triage-classifier/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/ticket-triage-classifier/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Reads service tickets from a CSV and gives each one a priority, a response time target and a trade, with the reason in plain words. It uses fixed rules, not machine learning, so every decision can be explained and changed.
 
 ![Screenshot](docs/screenshot.png)
